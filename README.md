@@ -10,3 +10,6 @@ Go into the folder where the main.py file is located and while holding shift rig
 Then type: "pyinstaller --onefile main.py".
 Go into the folder named "dist".
 Send the .exe file to your victims.
+
+
+# THIS IS FOR EDUCATIONAL PURPOSES ONLY
